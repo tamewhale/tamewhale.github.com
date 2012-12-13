@@ -1,0 +1,12 @@
+body {
+	background-image: url(../images/carbon_fibre_v2.png);
+}
+
+section {
+	background-color: #fff;
+	padding: 1em;
+	margin-top: 1em;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+}
